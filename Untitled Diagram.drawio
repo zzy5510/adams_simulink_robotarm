@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T04:00:42.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="kSxglZ3zqHv9QPLyvS_d" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T04:02:29.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="eUQRjILMDsp45kT0s07N" version="16.6.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1299" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,9 +60,6 @@
         <mxCell id="xbROvSDmepULWa9lhDUd-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="405" width="510" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xbROvSDmepULWa9lhDUd-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="xbROvSDmepULWa9lhDUd-20" target="xbROvSDmepULWa9lhDUd-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xbROvSDmepULWa9lhDUd-20" value="基于加速度冗余分解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="300" y="420" width="150" height="40" as="geometry" />
         </mxCell>
@@ -73,7 +70,7 @@
           <mxGeometry x="540" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xbROvSDmepULWa9lhDUd-36" value="无需求解雅克比矩阵的伪逆或导数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="531.75" y="470" width="116.5" height="30" as="geometry" />
+          <mxGeometry x="531.75" y="480" width="116.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
