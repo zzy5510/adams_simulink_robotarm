@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T04:56:16.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="eI9wsLyy6HXD0Hwuhc68" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T04:59:39.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="2oJFAIrYOK3XxU_JEHyQ" version="16.6.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,7 +51,7 @@
         <mxCell id="xbROvSDmepULWa9lhDUd-16" value="运动时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="370" y="290" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xbROvSDmepULWa9lhDUd-18" value="基座最小力矩扰动&lt;br style=&quot;font-size: 14px;&quot;&gt;逆运动学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="xbROvSDmepULWa9lhDUd-18" value="&lt;div&gt;考虑基座最小扰动的运动分解&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="65" y="450" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xbROvSDmepULWa9lhDUd-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
